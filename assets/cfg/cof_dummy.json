@@ -1,0 +1,14 @@
+{
+  "base_url": "https://appdev.foodigo.co.in/",
+  "api_base_url": "https://appdev.foodigo.co.in/api/",
+ 
+
+
+  "base_url": "http://52.66.101.194/",
+  "api_base_url": "http://52.66.101.194/api/",
+  
+
+  "base_url": "http://applive.foodigo.in/",
+  "api_base_url": "http://applive.foodigo.in/api/"
+  
+}

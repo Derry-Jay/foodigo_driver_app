@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976609003218",
+    "project_id": "driver-921da",
+    "storage_bucket": "driver-921da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976609003218:android:48995f9615fef7b27d4f0b",
+        "android_client_info": {
+          "package_name": "com.foodigo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976609003218-qijf6vbd2u9kki9ggi2iruul8rsmdmk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBatEEAdT_3H3Dkh2RG56hEamVZHXxJiFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976609003218-qijf6vbd2u9kki9ggi2iruul8rsmdmk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
